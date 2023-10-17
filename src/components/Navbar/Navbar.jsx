@@ -23,7 +23,7 @@ const Navbar = () => {
             ))}
         </ul>
         <div>
-            <button className='app__navbar-btn'><a href={CV} download="CV-alex-tapuleasa.pdf" filename='CV.pdf'>Download CV</a></button>
+            <button className='app__navbar-btn'><a href={CV} download="CV-alex-tapuleasa.pdf" filename='Alexandru_Tapuleasa_CV_c.pdf'>Download CV</a></button>
         </div>
         <div className="app__navbar-menu">
         <HiMenuAlt4 onClick={() => setToggle(true)} />
