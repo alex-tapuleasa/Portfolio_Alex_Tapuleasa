@@ -18,6 +18,10 @@ import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
+import constructionlg from '../assets/construction_lg.png';
+import constructionphone from '../assets/construction_phone.png';
+import detailscreen from '../assets/detailscreen.png';
+
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
@@ -37,7 +41,7 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
-import CV from '../assets/CV.pdf';
+import CV from '../assets/Alexandru_Tapuleasa_CV_c.pdf';
 
 export default {
   email,
@@ -59,6 +63,9 @@ export default {
   sass,
   typescript,
   vue,
+  constructionlg,
+  constructionphone,
+  detailscreen,
   about01,
   about02,
   about03,

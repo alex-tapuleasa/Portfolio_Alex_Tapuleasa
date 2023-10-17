@@ -3,7 +3,7 @@ import './Navbar.scss';
 import { HiMenuAlt4, HiX } from 'react-icons/hi';
 import { motion } from 'framer-motion';
 
-import CV from '../../assets/CV.pdf';
+import CV from '../../assets/Alexandru_Tapuleasa_CV_c.pdf';
 import { images } from '../../constants';
 
 const Navbar = () => {
